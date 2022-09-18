@@ -1,4 +1,9 @@
-# NLW_Explorer
+# NLW eSports - Trilha Explorer
 
-Site criado na NLW eSports, trilha Explorer.
-Evento  da Rocketseat.
+Projeto construído no evento Next Level Week da [Rocketseat](https://github.com/rocketseat-education), sob orientação do [Mayk Brito](https://github.com/maykbrito)
+
+## :tool Tecnologias
+
+- HTML
+- CSS
+- Git e Github
