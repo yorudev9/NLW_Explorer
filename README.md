@@ -10,7 +10,6 @@ Projeto construído no evento Next Level Week da [Rocketseat](https://github.com
 
 - HTML
 - CSS
-- Git e Github
 
 ## ✉️ Contato
 [Email - lizalves.dg@gmail.com](lizalves.dg@gmail.com) | 
